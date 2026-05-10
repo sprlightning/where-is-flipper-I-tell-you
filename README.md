@@ -1,9 +1,12 @@
 # where-is-flipper-I-tell-you
 If you want to personally replicate the Flipper like Flipper Zero or Flipper One but don't know where the resources are, I will tell you.
 
+![https://cdn.flipper.net/zero_landing_whats-inside.jpg](https://cdn.flipper.net/zero_landing_whats-inside.jpg "whats inside of Flipper Zero")
+
 ## Official Website
 The official website of Flipper: [https://flipper.net/](https://flipper.net/).  
 The team that designed the Flipper: [https://flipperdevices.com/](https://flipperdevices.com/).  
+Flipper Developer Docs: [https://developer.flipper.net/flipperzero/doxygen/](https://developer.flipper.net/flipperzero/doxygen/).  
 
 ### Quick Access
 - Flipper Documentation: [https://docs.flipper.net/](https://docs.flipper.net/).
@@ -46,7 +49,7 @@ Flipper Zero Apps Catalog: [https://github.com/flipperdevices/flipper-applicatio
 - Flipper Zero Firmware: [https://github.com/flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware).
 - Flipper Zero Firmware Roadmap: [https://miro.com/app/board/uXjVO_3D6xU=/](https://miro.com/app/board/uXjVO_3D6xU=/).
 - WiFi Board/Debug Probe Firmware: [https://github.com/flipperdevices/blackmagic-esp32-s2](https://github.com/flipperdevices/blackmagic-esp32-s2).
-- qFlipper(PC tool for Flipper Zero): [https://github.com/flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper).
+- qFlipper(Sources code): [https://github.com/flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper).
 - qFlipper(Downloads/Update via PC): [https://flipper.net/pages/downloads](https://flipper.net/pages/downloads).
 - Flipper Mobile App(Source code (iOS)): [https://github.com/flipperdevices/Flipper-iOS-App](https://github.com/flipperdevices/Flipper-iOS-App).
 - Flipper Mobile App(Source code (Android)): [https://github.com/flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App).
