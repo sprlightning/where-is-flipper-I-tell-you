@@ -69,3 +69,7 @@ These websites are external website.
 - Replicated HW of Flipper Zero(reel_to_reel, rectangle PCB via LCEDA Pro): [https://oshwhub.com/reel_to_reel/flipper_cn](https://oshwhub.com/reel_to_reel/flipper_cn).
 - Replicated HW of Flipper Zero(featherxx, rectangle PCB via LCEDA Pro): [https://oshwhub.com/featherxx/flipper_fc_modify](https://oshwhub.com/featherxx/flipper_fc_modify).
 - Replicated HW of Flipper Zero (glzhljb, original PCB via LCEDA Pro): [https://oshwhub.com/glzhljb/flipperzero-pcbrelayout](https://oshwhub.com/glzhljb/flipperzero-pcbrelayout).
+- Flipper Zero DIY Project (Schematics, KiCad, NOT FINISHED): [https://github.com/cbwhickstein/Flipper_Zero_DIY](https://github.com/cbwhickstein/Flipper_Zero_DIY).
+- Flipper Zero Unleashed Firmware: [https://github.com/DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware).
+- Flipper Zero ESP32 Port: [https://github.com/Sor3nt/Flipper-Zero-ESP32-Port](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port).
+- Flipper DIY(PCB Gerber, updating): [https://github.com/enexis1337/DIY-Flipper-PCB](https://github.com/enexis1337/DIY-Flipper-PCB).
